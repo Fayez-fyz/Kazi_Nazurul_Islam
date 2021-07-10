@@ -8,10 +8,10 @@
     padding:0px;
 }
 
-.header{
-    background-color: #1B1C1D ;
-
+#navbarNav{
+    padding-left: 20%;
 }
+
 
 #navbarNavAltMarkup{
     padding-left: 15%;
@@ -55,47 +55,16 @@
 .awesome{
     padding-top: 50px;
 }
-.buttons{
-    display: flex;
-    justify-content: center;
-    padding-top: 2em;
-    margin-bottom: 4%;
-}
-.wiki{
-background-color: #E0E1E2;
-color: black;
-height: 38px;
-border: 0;
-padding-left: 22px;
-padding-right: 22px;
-border-radius: 3px;
-}
-.youtube{
-    background-color: #DB2828;
-    margin-left: 15px;
+
+#am_books{
+    background-color: #F2711C ;
     color: white;
-    font-weight: bold;
-    padding-left: 22px;
-    padding-right: 22px;
-    height: 38px;
-    border: 0;
-border-radius: 3px;
 
 }
-.am_books{
-    background-color: #F2711C;
-    margin-left: 15px;
-    height: 38px;
-    color: white;
-    font-weight: bold;
-    padding-left: 22px;
-    padding-right: 22px;
-    border: 0;
-    border-radius: 3px;
-
-}
-
-
+.btn-toolbar{
+    padding-left: 30%;
+    
+} 
 .quotes 
 {
     display: flex;
